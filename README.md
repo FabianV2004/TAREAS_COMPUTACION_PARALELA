@@ -312,7 +312,7 @@ Algunas mejoras posibles son:
 
 ## Conclusiones
 
-Este proyecto fue un gran inicio para repasar conceptos del paradigma de programacion orientada a objetos y ademas, de como con pocas reglas se puede llegar a crear un comportamiento complejo, simulaciones, de celulas en este caso, pero si se logra, replicar la idea con reglas especificas de otros compuestos organicos, se podria replicar el experimento.
+Este proyecto fue un gran inicio para repasar conceptos de paradigmas de programacion orientada a objetos y ademas, de como con pocas reglas se puede llegar a crear un comportamiento complejo, simulaciones, de celulas en este caso, pero si se logra, replicar la idea con reglas especificas de otros compuestos organicos, se podria replicar el experimento.
 Los resultados del benchmark permiten observar que el tiempo de ejecución aumenta conforme crece el tamaño de la grilla. Esto confirma que el rendimiento del algoritmo depende directamente del número total de celdas que deben evaluarse en cada generación.
 
 En general, el proyecto cumple con los objetivos de implementar el Juego de la Vida de Conway, visualizar su evolución y analizar empíricamente su rendimiento computacional.
